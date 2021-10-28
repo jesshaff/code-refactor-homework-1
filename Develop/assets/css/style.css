@@ -1,3 +1,4 @@
+/*This page will apply styling to all of the elements on the page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -49,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-#hero {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
