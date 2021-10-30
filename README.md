@@ -52,4 +52,4 @@ THEN I find a concise, descriptive title
 
 ## -After Refactoring-
 
-![Webpage After Refactoring](assets/images/horiseon-webpage-after-refactoring.png)
+![Webpage After Refactoring](assets/images/horiseon-webpage-after-refactoring-resized.png)
