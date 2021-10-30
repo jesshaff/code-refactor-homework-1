@@ -46,7 +46,7 @@ THEN I find a concise, descriptive title
 ### Screenshots
 ## -Prior to Refactoring-
 
-![Web Prior to Refactoring](assets/images/01-html-css-git-homework-demo.png)
+![Web Prior to Refactoring](assets/images/horiseon-webpage-prior-to-refactoring-resized.png)
 
 <br>
 
