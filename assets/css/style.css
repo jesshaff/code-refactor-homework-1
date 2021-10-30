@@ -1,5 +1,5 @@
 * {
-    box-sizing: border-box;
+    box-sizing:border-box;
     padding: 0;
     margin: 0;
 }
@@ -18,7 +18,7 @@ header {
 /* Increased font size of Horiseon header */
 header h1 {
     display: inline-block;
-    font-size: 52px;
+    font-size:50px;
 }
 
 header h1 #seo {
@@ -41,7 +41,7 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-    font-size: 25px;;
+    font-size: 25px;
 }
 
 /* Added text decoration and changed it to none to remove underline */
@@ -55,7 +55,7 @@ p {
 }
 
 #hero {
-    height: 800px;
+    height: 950px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg"); alt:"background";
